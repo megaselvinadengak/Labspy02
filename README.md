@@ -2,6 +2,7 @@
 
 Apa itu PyCharm?
 PyCharm adalah integrated Development Evironment (IDE) yang berfokus pada mengembangan project dengan bahasa pemograman python. PyCharm dikembangkan oleh JetBrains, Selain PyCharm, JetBrains juga mengembangkan banyak macam IDE lainya misalnya seperti PHPStrom untuk mengembangkan PHP, intelij IDEA untuk mengembangkan JAVA dan lain-lain.
+https://github.com/alviandwipramono/labspy02/blob/master/jetbrains_products.png
 
 iftrue/false
 
