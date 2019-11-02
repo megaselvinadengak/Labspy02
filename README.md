@@ -1,4 +1,11 @@
 # Labspy02
+
+Apa itu PyCharm?
+PyCharm adalah integrated Development Evironment (IDE) yang berfokus pada mengembangan project dengan bahasa pemograman python. PyCharm dikembangkan oleh JetBrains, Selain PyCharm, JetBrains juga mengembangkan banyak macam IDE lainya misalnya seperti PHPStrom untuk mengembangkan PHP, intelij IDEA untuk mengembangkan JAVA dan lain-lain.
+
+iftrue/false
+
+Pemrograman Python Menggunakan PyCharm
 1.pertama - tama kita masuk ke apk python
 2.setelah masuk klik file membuat new projeck setelah itu diberi nama file labspy02
 3.silahkan membuat perintah "Bilangan1 = int(input("Masukan Bilangan 1:"))
